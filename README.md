@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, aquí Kiwidevd! 👋</h1>
 </div>
-<img src="file:///C:/Users/Kiwidevd/Downloads/Banner%20de%20LinkedIn%20negocios%20color%20verde%20y%20negro.png">
+<img src="https://www.canva.com/design/DAGsjjj0yp4/v5fzV6s-J646q6zPaW8yeg/view">
 
 
 ## Sobre mi
