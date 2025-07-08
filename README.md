@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, aquí Kiwidevd! 👋</h1>
 </div>
-<img src="https://imgur.com/a/jNfgqWa">
+<img src="https://i.imgur.com/ivfsqzT.png">
 
 
 ## Sobre mi
