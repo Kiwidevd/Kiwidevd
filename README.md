@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy Kiwidevd 👋</h1>
+<h1 align="center">Hola, aquí Kiwidevd! 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="file:///C:/Users/Kiwidevd/Downloads/Banner%20de%20LinkedIn%20negocios%20color%20verde%20y%20negro.png">
 
 
 ## Sobre mi
